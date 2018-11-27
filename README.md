@@ -6,8 +6,9 @@ This project is just for learning and testing
 [![Build Status](https://travis-ci.com/jmacwanzc/VSCode.svg?branch=master)](https://travis-ci.com/jmacwanzc/VSCode)
 
 [GitHub Link](www.github.com)
+```
 >WordPairs("However, you may have this nagging feeling that you still don’t feel like an expert")
-
+```
 >hii
 >how
 >are

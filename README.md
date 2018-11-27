@@ -12,6 +12,6 @@ This project is just for learning and testing
 >how
 >are
 
-![Name](Link)
+![Pic Name](https://github.com/jmacwanzc/VSCode/blob/master/IMG_1614.JPG)
 
 Word **pair**
